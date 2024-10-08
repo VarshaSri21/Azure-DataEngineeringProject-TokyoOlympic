@@ -65,7 +65,7 @@ The solution comprises two key layers for data management:
 #### Tableau
 1. Connect Tableau to Azure Synapse Analytics.
 2. Develop interactive dashboards and reports.
-![Tableau Analysis]()
+![Tableau Analysis](https://github.com/VarshaSri21/Azure-DataEngineeringProject-TokyoOlympic/blob/main/TableauAnlysis.png)
 ## Execution
 
 1. **Ingest Data**: Use ADF to move raw data into the Raw Data layer on ADLS.
