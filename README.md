@@ -16,6 +16,8 @@ The solution comprises two key layers for data management:
 1. **Raw Data Layer**: Ingests unprocessed data.
 2. **Transformed Data Layer**: Cleans, processes, and refines data for analysis.
 
+![Architecture Diagram](image.png)
+
 ### Azure Services Used:
 - **Azure Data Factory**: Manages and automates data pipelines.
 - **Azure Databricks**: Processes and transforms data using Apache Spark.
