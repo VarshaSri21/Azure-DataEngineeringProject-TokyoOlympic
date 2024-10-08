@@ -65,7 +65,7 @@ The solution comprises two key layers for data management:
 #### Tableau
 1. Connect Tableau to Azure Synapse Analytics.
 2. Develop interactive dashboards and reports.
-![Architecture Diagram](file:///C:/Users/varsh/Downloads/2021%20Tokyo%20Olympics.pdf)
+![Tableau Analysis]()
 ## Execution
 
 1. **Ingest Data**: Use ADF to move raw data into the Raw Data layer on ADLS.
