@@ -16,7 +16,7 @@ The solution comprises two key layers for data management:
 1. **Raw Data Layer**: Ingests unprocessed data.
 2. **Transformed Data Layer**: Cleans, processes, and refines data for analysis.
 
-![Architecture Diagram](image.png)
+![Architecture Diagram](https://github.com/VarshaSri21/tokyo-olympic/blob/main/ArchitectureDiagram.png)
 
 ### Azure Services Used:
 - **Azure Data Factory**: Manages and automates data pipelines.
